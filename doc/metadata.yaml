@@ -7,7 +7,7 @@ images:
 - doc/img/PCRD02A_top_small.jpg
 - doc/img/PCRD02A_QRcode.png
 mark: 50
-status: 0
+status: 3
 tags:
 - ionizing-radiation
 - dosimeter
