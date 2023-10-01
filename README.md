@@ -1,7 +1,8 @@
-Plocs cosmic ray detector (PCRD)
+# PCRD - Plocs cosmic ray detector
 
-1. Technické parametry
-======================
+Je konstrukce polovodičového detektoru kosmického záření. Hlavními přednostmi je citlivost na veškeré nabité částice, nízká energetická náročnost a nízká hmotnost. Navíc je možné v případě že interakce se zářením předá v křemíku veškerou svojí energii určit i energetické spektrum směsného pole záření.
+
+## Technické parametry
 
 |              |                     |                           |
 |--------------|---------------------|---------------------------|
@@ -9,24 +10,11 @@ Plocs cosmic ray detector (PCRD)
 | Napájení     | +/- 2.4V            |                           |
 | Rozměry      | 30.0 x 50.3 x 16 mm | Výška nad základní deskou |
 
-2. Popis konstrukce
-===================
+## Popis konstrukce
 
-2.1. Úvodem
------------
 
-2.2. Mechanická konstrukce
---------------------------
+## 3.1 Osazení
 
-Modul obsahuje úchytné šroubky ve všech rozích v rozteči MLAB (10.16mm). Při potřebě šetřit
-
-místem je možné odlomení části PCB se dvěma šrouby.
-
-3. Osazení a oživení
-====================
-
-3.1 Osazení
------------
 
 |                  |           |                             |           |
 |------------------|-----------|-----------------------------|-----------|
