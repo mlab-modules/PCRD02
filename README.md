@@ -2,6 +2,9 @@
 
 The PCRD is a semiconductor detector for cosmic rays. Its main advantages include sensitivity to all charged particles, low energy consumption, and low weight. Additionally, if the interaction with radiation transfers all its energy to the silicon, it is possible to determine the energy spectrum of the mixed radiation field.
 
+
+![PCRD02 top](/doc/gen/img/PCRD02-top.png) ![PCRD02 bottom](/doc/gen/img/PCRD02-bottom.png)
+
 ## Technical Parameters
 
 | **Parameter** | **Value**           | **Note**                 |
