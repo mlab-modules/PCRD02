@@ -6,8 +6,17 @@ github_url: https://github.com/mlab-modules/PCRD02
 homepage: false
 images:
 - doc/img/PCRD02A_top_small.jpg
+- doc/gen/img/PCRD02-bottom.png
+- doc/gen/img/PCRD02-top.png
 - doc/img/PCRD02A_QRcode.png
+- doc/gen/PCRD02-schematic.svg
+- doc/gen/img/PCRD02-bottom.svg
+- doc/gen/img/PCRD02-top.svg
+- hw/cam_profi/assembly/PCRD02-assembly_page_01.svg
+- hw/cam_profi/assembly/PCRD02-assembly_page_02.svg
 mark: 50
+mod_ibom: hw/cam_profi/PCRD02-ibom.html
+mod_scheme: doc/gen/PCRD02-schematic.pdf
 status: 3
 tags:
 - ionizing-radiation
@@ -16,4 +25,4 @@ tags:
 - mlab
 - mlab-module
 title: PCRD02
-updated: '2024-07-03T21:21:27.134298+00:00'
+updated: '2024-07-03T21:23:22.648078+00:00'
