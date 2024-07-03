@@ -1,5 +1,6 @@
 description: Silicon PIN diode cosmic radiation detector
 github_branch: PCRD02A
+github_description: Silicon PIN diode cosmic radiation detector
 github_repo: PCRD02
 github_url: https://github.com/mlab-modules/PCRD02
 homepage: false
@@ -15,3 +16,4 @@ tags:
 - mlab
 - mlab-module
 title: PCRD02
+updated: '2024-07-03T21:21:27.134298+00:00'

@@ -1,4 +1,5 @@
-bom: ''
+bom: hw/sch_pcb/PCRD02.kicad_pcb
+color: white
 eda:
   pcb: hw/sch_pcb/PCRD02.kicad_pcb
   type: kicad
