@@ -1,0 +1,11 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"C5","2pF","2pF_PCB",26.6548,24.0792,0.0000,top
+"C8","2pF","2pF_PCB",20.7213,7.6759,0.0000,top
+"J1","CONN1_2","CONN_3_2",13.5433,9.6774,90.0000,top
+"J2","JUMP_3X2","Pin_Header_Straight_2x03",5.0800,15.7480,90.0000,top
+"J3","JUMP_5X2","Pin_Header_Straight_2x05",33.2740,3.8100,0.0000,top
+"J4","Out","Pin_Header_Straight_2x03",45.9740,13.2080,90.0000,top
+"P1","_","MountingHole_3mm",45.7200,25.4000,0.0000,top
+"P2","_","MountingHole_3mm",45.7200,5.0800,0.0000,top
+"P3","_","MountingHole_3mm",5.0800,5.0800,0.0000,top
+"P4","_","MountingHole_3mm",5.0800,25.4000,0.0000,top
