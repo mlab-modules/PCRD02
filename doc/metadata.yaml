@@ -1,9 +1,12 @@
 description: Silicon PIN diode cosmic radiation detector
 github_branch: PCRD02A
+github_branches:
+- PCRD02A
 github_description: Silicon PIN diode cosmic radiation detector
 github_repo: PCRD02
 github_url: https://github.com/mlab-modules/PCRD02
 homepage: false
+image: doc/img/PCRD02A_top_small.jpg
 images:
 - doc/img/PCRD02A_top_small.jpg
 - doc/gen/img/PCRD02-bottom.png
@@ -14,6 +17,7 @@ images:
 - doc/gen/img/PCRD02-top.svg
 - hw/cam_profi/assembly/PCRD02-assembly_page_01.svg
 - hw/cam_profi/assembly/PCRD02-assembly_page_02.svg
+issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/PCRD02-ibom.html
 mod_scheme: doc/gen/PCRD02-schematic.pdf
